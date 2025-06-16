@@ -5,4 +5,4 @@ El juego fué realizado en el primer curso de ***Grado Superior de Desarrollo de
 ## 👨‍💻 Autores
 - [**Jesús Gómez Villaboa**](https://github.com/LightnigFast) · [LinkedIn](https://linkedin.com/in/jesús-gómez-274111351/)
 - [**Rubén De Las Heras Silveira**](https://github.com/rubenhs9) · [LinkedIn](https://linkedin.com/in/rubenhs9/)
-- [**KKelvin Rene Alberto Ogando**] · [LinkedIn](https://linkedin.com/in/kelvin-rene-alberto-ogando-5664942b9/)  
+- [**KKelvin Rene Alberto Ogando**](https://linkedin.com/in/kelvin-rene-alberto-ogando-5664942b9/)  
